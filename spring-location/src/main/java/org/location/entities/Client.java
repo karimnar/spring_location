@@ -68,6 +68,6 @@ public class Client implements Serializable {
 	}
 	
 	
-	
+	//nice
 
 }
